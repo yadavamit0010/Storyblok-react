@@ -10,7 +10,7 @@
     "tailwindcss": "^3.4.10"
   },
   "scripts": {
-    "predeploy”: "yarn run build",
+    "predeploy": "yarn run build",
     "deploy": "yarn -d build -b main",
     "start": "react-scripts start",
     "build": "react-scripts build",
