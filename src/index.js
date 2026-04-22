@@ -13,7 +13,7 @@ import HeroSection from "./components/HeroSection";
 import Image from "./components/Image";
 
 storyblokInit({
-  accessToken: "sTgbUYRvWIpbgeyr72222332",
+  accessToken: "sTgbUYRvWIpbgeyr7LMIMwtt",
   use: [apiPlugin],
   components: {
     page: Page,
